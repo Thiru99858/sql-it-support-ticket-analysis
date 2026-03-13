@@ -190,10 +190,12 @@ Through this project, the following practical data analysis skills were develope
 
 Possible extensions of this project:
 
-- Build a **Power BI dashboard** using the analytical dataset
+- Build a Power BI dashboard using the analytical dataset
 - Perform deeper trend analysis
 - Optimize queries for large datasets
 - Apply predictive analysis on ticket resolution time
+- Integrate the final analytical dataset with BI tools such as Power BI or Tableau to build interactive dashboards for SLA monitoring, agent performance, and ticket trends
+
 
 ---
 
